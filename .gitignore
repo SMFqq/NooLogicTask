@@ -29,3 +29,7 @@ dist/
 service-account.json
 *.key
 *.pem
+
+# IDE & tools
+ngrok.lnk
+
