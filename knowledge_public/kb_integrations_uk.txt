@@ -1,0 +1,13 @@
+Інтеграції: WhatsApp, Telegram, Viber, Instagram DM, Facebook Messenger, сайти/віджети, телефонія, CRM/ERP. Дані синхронізуються у реальному часі.
+Тригери: інтеграції, підключені месенджери, підтримувані crm, телефонія, сайт чат
+
+Комунікації: інтеграції IG/Telegram/WhatsApp/Viber/Instagram DM/FB Messenger, підключення телефонії, контакт-центр, багатоканальність.
+Тригери: інтеграції, месенджери, телефонія, omni-channel, контакт центр
+
+Системи та інтеграції, з якими працюємо:
+Оплати/еквайринг: LiqPay, WayForPay, Fondy, Stripe, Portmone, Apple Pay, Google Pay, Monobank/PrivatBank API.
+CRM/ERP: Bitrix24, HubSpot, Zoho, Odoo; кастомні CRM через REST/Webhook/Queue.
+Месенджери: Instagram Direct API, Telegram Bot API, WhatsApp Cloud API, Viber.
+Телефонія: Asterisk/FreePBX, Twilio, Binotel, SIP; черги, воркери, масштабування під навантаження.
+Аналітика: PostgreSQL, ClickHouse, потоки подій, дашборди KPI.
+Тригери: liqpay, wayforpay, fondy, stripe, portmone, apple pay, google pay, monobank, privatbank, bitrix24, hubspot, zoho, odoo, asterisk, freepbx, twilio, binotel, sip, postgresql, clickhouse, апі, api
